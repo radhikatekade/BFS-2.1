@@ -1,5 +1,5 @@
-# Time complexity - O(n)
-# Space complexity - O(n/2)
+# Time complexity - O(m * n)
+# Space complexity - O(m * n)
 
 # Approach - bfs - Maintain the count of initial fresh oranges and the number of total fresh oranges that
 # were able to converted to rotten once we traverse the grid. Also need to maintain the level in the queue
